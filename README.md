@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
 <p align="center">
-    <a href="https://leetcode.com/mishravinamra5/"><img width="48%" src="https://leetcode.card.workers.dev/mishravinamra5?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+    <a href="https://leetcode.com/mishravinamra5/"><img width="48%" src="https://leetcard.jacoblin.cool/mishravinamra5?theme=dark&font=Gideon%20Roman"></a>
     <a href="https://github.com/Vinamra7"><img width="50%" height="20% !important" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinamra7&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
   <br><br>
   <a href="https://codeforces.com/profile/vinam5">
